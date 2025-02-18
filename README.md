@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1Hzy58C2V9femT71kkl9wCB9D-Yru9_D6" alt="" width="100%" border="0" />
+  <img src="https://drive.google.com/uc?export=view&id=1YfoUfj-l258zBJvAnH0k1T3D5CAZ9v-O" alt="" width="100%" border="0" />
 <br>
 
 DevStage
@@ -24,11 +24,9 @@ DevStage
 
   <br /><br />
 
-- [React Native](https://reactnative.dev/)
-
-- [React Navigation](https://reactnavigation.org/docs/getting-started#installation)
-  - [React Navigation Native Stack](https://reactnavigation.org/docs/hello-react-navigation)
-  - [React Navigation Bottom Tab Navigator](https://reactnavigation.org/docs/upgrading-from-5.x/#bottom-tab-navigator)
+- [Next](https://nextjs.org/docs)
+- [React](https://react.dev/learn)
+- [Tailwindcss](https://tailwindcss.com/docs/installation/framework-guides/nextjs)
 
 ## Demonstration
 
@@ -36,12 +34,10 @@ DevStage
   <img src="https://drive.google.com/uc?export=view&id=1NjRlNfq05NSB5gpN1voxG5mAUEgqCfVg" alt="" width="100%" border="0" />
 </div>
 
-## Project Dynamics
-
 ## Install
 
-Install React Native CLI <br />
-`npx @react-native-community/cli init NewProject` <br />
+Install Next <br />
+`npx create-next-app@latest --empty` and follow steps your needs.<br />
 
 Clone project to repository:<br />
 <img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" />
@@ -53,7 +49,7 @@ Install node_modules <br />
 <img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npm i`
 
 Run application <br />
-<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npx start`
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npx run dev`
 
 ## License
 

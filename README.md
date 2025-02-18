@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1u-J5lvj7EH76_gp7eUKwQrM7fR3w0Si2" alt="" width="100%" border="0" />
+  <img src="https://drive.google.com/uc?export=view&id=1Hzy58C2V9femT71kkl9wCB9D-Yru9_D6" alt="" width="100%" border="0" />
 <br>
 
-:metal::metal::metal: Headbanger Forever :metal: :metal: :metal:
+DevStage
 
 </h1>
 
@@ -20,7 +20,8 @@
 
 ### Libraries
 
-- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> — Learn once, write anywhere. Create native apps for Android and iOS using React. React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces.
+- <img src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> — Used by some of the world's largest companies, Next.js enables you to create high-quality web applications with the power of React components. React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations.
+
   <br /><br />
 
 - [React Native](https://reactnative.dev/)
@@ -32,7 +33,7 @@
 ## Demonstration
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=" alt="" width="100%" border="0" />
+  <img src="https://drive.google.com/uc?export=view&id=1NjRlNfq05NSB5gpN1voxG5mAUEgqCfVg" alt="" width="100%" border="0" />
 </div>
 
 ## Project Dynamics

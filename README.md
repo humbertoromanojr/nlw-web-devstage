@@ -28,6 +28,7 @@ DevStage
 - [Next](https://nextjs.org/docs)
 - [Tailwindcss](https://tailwindcss.com/docs/installation/framework-guides/nextjs)
 - [Lucide React](https://lucide.dev/guide/packages/lucide-react)
+- [Biome](https://biomejs.dev/pt-br/guides/getting-started)
 
 ## Demonstration
 

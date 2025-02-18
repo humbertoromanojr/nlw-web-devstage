@@ -22,11 +22,12 @@ DevStage
 
 - <img src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> — Used by some of the world's largest companies, Next.js enables you to create high-quality web applications with the power of React components. React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations.
 
-  <br /><br />
+  <br />
 
-- [Next](https://nextjs.org/docs)
 - [React](https://react.dev/learn)
+- [Next](https://nextjs.org/docs)
 - [Tailwindcss](https://tailwindcss.com/docs/installation/framework-guides/nextjs)
+- [Lucide React](https://lucide.dev/guide/packages/lucide-react)
 
 ## Demonstration
 
@@ -46,7 +47,7 @@ git clone `https://humbertoromanojr@bitbucket.org/humbertoromanojr/nlw-web-devst
 <img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> Go to `nlw-web-devstage` folder <br />
 
 Install node_modules <br />
-<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npm i`
+<img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npm i` when you need
 
 Run application <br />
 <img src="https://drive.google.com/uc?export=view&id=16QqYlur8qtl5ao_XyEb4IthGyveQmELo" alt="" width="22" border="0" /> `npx run dev`
@@ -60,6 +61,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 <img src="https://avatars1.githubusercontent.com/u/6500430?s=460&u=42d7e22fa1c77b061505fe1cfc3fcaa3e2a4d1e5&v=4" width="80" alt="linkedin.com/in/junior-dev" />
 <img src="https://drive.google.com/uc?export=view&id=1-y6rFrn4uqPfLx3nuUTXh14OeRGSZzHu" alt="" width="42" border="0" />
 :guitar: Humberto Jr :guitar:
+
+🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘 🤘
 <br />
 
 LinkedIn: linkedin.com/in/humbertoromanojr <br />

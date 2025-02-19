@@ -25,6 +25,9 @@ DevStage
 - [React](https://react.dev/learn)
 - [Next](https://nextjs.org/docs)
 - [Tailwindcss](https://tailwindcss.com/docs/installation/framework-guides/nextjs)
+
+  - [Tailwind Merge](https://github.com/dcastil/tailwind-merge)
+
 - [Lucide React](https://lucide.dev/guide/packages/lucide-react)
 - [Biome](https://biomejs.dev/pt-br/guides/getting-started)
 
@@ -65,7 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 :guitar: Humberto Jr :guitar:
 
-<br /><br />
+##
 
 LinkedIn: linkedin.com/in/humbertoromanojr <br />
 GitLab: gitlab.com/humbertoromanojr <br />

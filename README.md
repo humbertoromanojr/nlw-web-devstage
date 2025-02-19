@@ -23,6 +23,8 @@ DevStage
 - <img src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> — Used by some of the world's largest companies, Next.js enables you to create high-quality web applications with the power of React components. React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations.
 
 - [React](https://react.dev/learn)
+- [React Hook Form](https://www.react-hook-form.com/get-started)
+  - [Resolvers](https://github.com/react-hook-form/resolvers)
 - [Next](https://nextjs.org/docs)
 - [Tailwindcss](https://tailwindcss.com/docs/installation/framework-guides/nextjs)
 
@@ -30,6 +32,7 @@ DevStage
 
 - [Lucide React](https://lucide.dev/guide/packages/lucide-react)
 - [Biome](https://biomejs.dev/pt-br/guides/getting-started)
+- [Zod](https://zod.dev)
 
 ## Demonstration
 

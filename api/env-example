@@ -1,0 +1,12 @@
+# Server
+PORT=3333
+
+# Database
+DATABASE_URL=
+
+# Redis
+REDIS_URL=
+
+# URLs
+API_URL="http://localhost:3333"
+WEB_URL="http://localhost:3000"

@@ -14,7 +14,7 @@ interface InviteProps {
 export default async function Invite(props: InviteProps) {
   const { subscriberId } = await props.params
 
-  const inviteLink = `http://localhost:3333/invite/${subscriberId}`
+  const inviteLink = `http://localhost:3333/invites/${subscriberId}`
 
   return (
     <div className="min-h-dvh flex items-center justify-between gap-16 flex-col md:flex-row">
@@ -42,7 +42,7 @@ export default async function Invite(props: InviteProps) {
 
           <InviteLinkInput inviteLink={inviteLink} />
 
-          <Stats />
+          <Stats subscriberId={subscriberId} />
         </div>
       </div>
 
